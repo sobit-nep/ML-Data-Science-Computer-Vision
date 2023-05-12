@@ -1,5 +1,5 @@
 # Data-Science
-## Must know ML Algorithms
+## Must know ML Algorithms for Data Science
 ### Linear regression
 > Linear regression is a statistical model used to predict the relationship between dependent and independent variable.
 
@@ -35,7 +35,7 @@
 > The Red point on the Y axis is the amount of Crop Yield you can expect for some amount of Rainfall (X) represented by Green dot 
 
 
-### Profit estimation of companies with linear regression using 1000_Companies.csv
+### Profit estimation of companies with linear regression using 1000_Companies.csv [[Jupyter Notebook Link]](https://github.com/sobit-nep/Data-Science/blob/main/regression.ipynb)
   - r2_score [ coefficient of determination (R-squared) ] value is found to be ***0.9114714505439288***
 ![Correlation matrix](/images/matrix.png)
 ### Logistic regression
