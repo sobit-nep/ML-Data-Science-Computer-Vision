@@ -1,5 +1,5 @@
 # Data-Science
-## Introduction to Data Science
+## Must know ML Algorithms
 ### Linear regression
 > Linear regression is a statistical model used to predict the relationship between dependent and independent variable.
 
@@ -42,4 +42,6 @@
 ### Decision tree
 ### Random forest
 ### KNN
+### SVM
+### Naive Bayes
 ### Clustering
