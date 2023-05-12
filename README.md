@@ -9,9 +9,10 @@
     **y=mx+c**
   - **y** ---> Dependent Variable
     **x** ---> Independent Variable
-    **m** ---> Slope of the line 
-    **m** = (y2-y1)/(x2-x1)
+    **m** ---> Slope of the line    
     **c** ---> Coefficient of the line
+  -  **m** = (y2-y1)/(x2-x1)
+    
 ![Linear Regression](/images/regression.png)  
 > Profit estimation of companies with linear regression using 1000_Companies.csv
   - r2_score [ coefficient of determination (R-squared) ] value is found to be ***0.9114714505439288***
