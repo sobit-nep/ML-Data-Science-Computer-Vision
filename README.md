@@ -7,10 +7,12 @@
   - How significant is the Regression line to make predictions with highest possible accuracy
   - The simplest form of a simple linear regression equation with one dependent and one independent variable isrepresented by:
     **y=mx+c**
-  - y ---> Dependent Variable
-    x ---> Independent Variable
-    m ---> Slope of the line m = (y2-y1)/(x2-x1)
-    c ---> Coefficient of the line
+  - **y** ---> Dependent Variable
+    **x** ---> Independent Variable
+    **m** ---> Slope of the line 
+    **m** = (y2-y1)/(x2-x1)
+    **c** ---> Coefficient of the line
+![Linear Regression](/images/regression.png)  
 > Profit estimation of companies with linear regression using 1000_Companies.csv
   - r2_score [ coefficient of determination (R-squared) ] value is found to be ***0.9114714505439288***
 ![Correlation matrix](/images/heatmap.png)
