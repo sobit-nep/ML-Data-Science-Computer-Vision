@@ -20,13 +20,22 @@
 ![Linear Regression](/images/regression.png)
 
 ### Prediction using the linear regression
-> Plotting the amount of Crop Yield based on the amount of Rainfall
+
 ![Plot1](/images/prediction1.png)
-> The Red point on the Y axis is the amount of Crop Yield you can expect for some amount of Rainfall (X) represented by Green dot 
+
+> Plotting the amount of Crop Yield based on the amount of Rainfall
+
+
+
+
 ![Plot2](/images/prediction2.png)
-> Profit estimation of companies with linear regression using 1000_Companies.csv
+
+> The Red point on the Y axis is the amount of Crop Yield you can expect for some amount of Rainfall (X) represented by Green dot 
+
+
+### Profit estimation of companies with linear regression using 1000_Companies.csv
   - r2_score [ coefficient of determination (R-squared) ] value is found to be ***0.9114714505439288***
-![Correlation matrix](/images/heatmap.png)
+![Correlation matrix](/images/matrix.png)
 ### Logistic regression
 ### Decision tree
 ### Random forest
