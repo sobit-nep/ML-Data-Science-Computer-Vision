@@ -2,9 +2,11 @@
 ## Introduction to Data Science
 ### Linear regression
 > Linear regression is a statistical model used to predict the relationship between dependent and independent variable.
-> Examine two factors
+
+> Examine two factors:
   - Which variables in particular are significant predictors of the outcome variables?
-  - How significant is the Regression line to make predictions with highest possible accuracy
+  - How significant is the Regression line to make predictions with highest possible accuracy?
+  
 ### The simplest form of a simple linear regression equation with one dependent and one independent variable is represented by:
    **y=mx+c**
   - Where,
@@ -19,7 +21,7 @@
     
 ![Linear Regression](/images/regression.png)
 
-### Prediction using the linear regression
+### Prediction using the linear regression:
 
 ![Plot1](/images/prediction1.png)
 
