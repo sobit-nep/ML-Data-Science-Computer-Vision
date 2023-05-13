@@ -72,9 +72,9 @@
 ![SIGMOID FUNCTION](https://github.com/sobit-nep/Data-Science/assets/65544518/33445062-6b7d-4774-96dd-8633f3b722db)
 ### Logistic regression is implemented using iris data loaded from seaborn [[Jupyter Notebook Link]](https://github.com/sobit-nep/Data-Science/blob/main/logistic_regression.ipynb)
 
-<h1>Decision tree</h1>
-<h1>Random forest</h1>
+<h1>Naive Bayes</h1>
 <h1>KNN</h1>
 <h1>SVM</h1>
-<h1>Naive Bayes</h1>
+<h1>Decision tree</h1>
+<h1>Random forest</h1>
 <h1>Clustering</h1>
