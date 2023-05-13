@@ -16,7 +16,7 @@
     
     **m** ---> Slope of the line  
     
-    **c** ---> Coefficient of the line
+    **c** ---> Intercept
   -  **m** = (y2-y1)/(x2-x1)
     
 ![Linear Regression](/images/regression.png)
