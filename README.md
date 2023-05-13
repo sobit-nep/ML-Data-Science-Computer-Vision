@@ -36,7 +36,7 @@
 > The Red point on the Y axis is the amount of Crop Yield you can expect for some amount of Rainfall (X) represented by Green dot 
 
 
-### Profit estimation of companies with linear regression using 1000_Companies.csv [[Jupyter Notebook Link]](https://github.com/sobit-nep/Data-Science/blob/main/regression.ipynb)
+### Profit estimation of companies with linear regression using 1000_Companies.csv [[Jupyter Notebook Link]](https://github.com/sobit-nep/Data-Science/blob/main/linear_regression_.ipynb)
   - r2_score [ coefficient of determination (R-squared) ] value is found to be ***0.9114714505439288***
 ![Correlation matrix](/images/matrix.png)
 
@@ -70,7 +70,7 @@
 > 1 / (1 + e^-value)
 
 ![SIGMOID FUNCTION](https://github.com/sobit-nep/Data-Science/assets/65544518/33445062-6b7d-4774-96dd-8633f3b722db)
-### Logistic regression is implemented using iris data loaded from seaborn [[Jupyter Notebook Link]](https://github.com/sobit-nep/Data-Science/blob/main/logistic_regression_implementation.ipynb)
+### Logistic regression is implemented using iris data loaded from seaborn [[Jupyter Notebook Link]](https://github.com/sobit-nep/Data-Science/blob/main/logistic_regression.ipynb)
 
 <h1>Decision tree</h1>
 <h1>Random forest</h1>
