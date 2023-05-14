@@ -1,6 +1,7 @@
 # Data-Science
 ## Must know ML Algorithms for Data Science
-<h1>Linear regression</h1>
+<ul>
+  <h1>1. Linear regression</h1>
 
 > Linear regression is a statistical model used to predict the relationship between dependent and independent variable.
 
@@ -39,8 +40,8 @@
 ### Profit estimation of companies with linear regression using 1000_Companies.csv [[Jupyter Notebook Link]](https://github.com/sobit-nep/Data-Science/blob/main/linear_regression_.ipynb)
   - r2_score [ coefficient of determination (R-squared) ] value is found to be ***0.9114714505439288***
 ![Correlation matrix](/images/matrix.png)
-
-<h1>Logistic regression</h1>
+</br>
+  <h1>2. Logistic regression</h1></li>
 
 > Logistic regression is a machine learning algorithm that is used for classification tasks, where the output variable is categorical. It is a type of supervised learning algorithm that predicts the probability of a certain outcome based on input features.
 
@@ -72,9 +73,9 @@
 ![SIGMOID FUNCTION](https://github.com/sobit-nep/Data-Science/assets/65544518/33445062-6b7d-4774-96dd-8633f3b722db)
 ### Logistic regression is implemented using iris data loaded from seaborn [[Jupyter Notebook Link]](https://github.com/sobit-nep/Data-Science/blob/main/logistic_regression.ipynb)
 
-<h1>Naive Bayes</h1>
-<h1>KNN</h1>
-<h1>SVM</h1>
-<h1>Decision tree</h1>
-<h1>Random forest</h1>
-<h1>Clustering</h1>
+<h1>3. Naive Bayes</h1>
+<h1>4. KNN</h1>
+<h1>5. SVM</h1>
+<h1>6. Decision tree</h1>
+<h1>7. Random forest</h1>
+<h1>8. Clustering</h1>
