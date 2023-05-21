@@ -71,7 +71,7 @@
 > 1 / (1 + e^-value)
 
 ![SIGMOID FUNCTION](https://github.com/sobit-nep/Data-Science/assets/65544518/33445062-6b7d-4774-96dd-8633f3b722db)
-### Logistic regression is implemented using iris data loaded from seaborn [[Jupyter Notebook Link]](https://github.com/sobit-nep/Data-Science/blob/main/logistic_regression.ipynb)
+### Logistic regression is implemented on Iris dataset [[Jupyter Notebook Link]](https://github.com/sobit-nep/Data-Science/blob/main/logistic_regression.ipynb)
 
 <h1>3. Naive Bayes</h1>
 <h1>4. KNN</h1>
