@@ -1,5 +1,5 @@
-# Data-Science
-## Must know ML Algorithms for Data Science
+# Machine Learning, Computer Vision and Data-Science
+## Must know ML Algorithms
 <ul>
   <h1>1. Linear regression</h1>
 
