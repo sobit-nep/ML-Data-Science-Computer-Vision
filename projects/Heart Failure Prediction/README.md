@@ -37,20 +37,20 @@ To run this project, you will need the following packages and libraries:
 ## Installation
 
 1. Clone the repository:
-
+   
    ```bash
-   git clone https://github.com/your-username/heart-failure-prediction.git
+   git clone [https://github.com/sobit-nep](https://github.com/sobit-nep/ML-Data-Science-Computer-Vision/projects/heart-failure-prediction.git
    cd heart-failure-prediction
    ```
 
-2. Create a virtual environment and activate it:
+3. Create a virtual environment and activate it:
 
    ```bash
    python3 -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
-3. Install the required packages:
+4. Install the required packages:
 
    ```bash
    pip install -r requirements.txt
