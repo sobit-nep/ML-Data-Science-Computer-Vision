@@ -39,7 +39,7 @@ To run this project, you will need the following packages and libraries:
 1. Clone the repository:
    
    ```bash
-   git clone [https://github.com/sobit-nep](https://github.com/sobit-nep/ML-Data-Science-Computer-Vision/projects/heart-failure-prediction.git
+   git clone https://github.com/sobit-nep/ML-Data-Science-Computer-Vision/projects/heart-failure-prediction.git
    cd heart-failure-prediction
    ```
 
